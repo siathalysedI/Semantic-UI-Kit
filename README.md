@@ -1,5 +1,5 @@
 # Semantic-UI-Kit for Sketch
-Comprehensive UI kit for rapid prototyping in Sketch and Illustrator
+Comprehensive UI kit for rapid prototyping in Sketch and Illustrator. (The Illustrator file is a port from Sketch so it has a few minor issues.)
 
 #### Click <a href="https://github.com/garystover/Semantic-UI-Kit/archive/master.zip">here</a> to download.
 
